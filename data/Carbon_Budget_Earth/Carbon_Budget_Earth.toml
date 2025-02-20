@@ -1,0 +1,15 @@
+[metadata]
+caption = "The Carbon budget for the Earth"
+file    = "./Carbon_Budget_Earth.csv"
+source  =  "Neil Wells(1997) The Atmosphere and Ocean, Wiley, p.30"
+sha256sum = "29f3422b8743b2d13ea6f1f15e3154078ef311874b6ace4ca4139bfc615707bc"
+
+[colmetadata.Mass]
+label = "Mass [10¹⁴kg]"
+unit  = "kg"
+scale = 1.0e14
+
+[colmetadata.Reservoir]
+label = "Reservoir"
+
+
