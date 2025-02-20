@@ -1,4 +1,6 @@
-## Hi there 👋
+## Monas Mechanica
+
+A an armchair cartographers journey through  landscapes of mathematics mechanics, fluids and numerics. 
 
 <!--
 **monas-mechanica/monas-mechanica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
